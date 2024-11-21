@@ -76,6 +76,6 @@ La estructura del directorio de este proyecto está organizada de la siguiente m
 
 Se han desarrollado tres notebooks en esta primera práctica:
 
-1. **01_Exploracion_General**: Su objetivo es comprender las variables y estudiar la distribución y naturaleza de los datos.
-2. **02_EDA_Procesamiento_Vars**: Enfocado en la división del dataset en train y test, la identificación de valores nulos y outliers, y el análisis de correlaciones entre variables.
-3. **03_Codificacion_Var_Escalado**: Se centra en la codificación de variables categóricas y el escalado de variables numéricas.
+1. **00_Exploracion_General**: Su objetivo es comprender las variables y estudiar la distribución y naturaleza de los datos.
+2. **01_EDA_Procesamiento_Vars**: Enfocado en la división del dataset en train y test, la identificación de valores nulos y outliers, y el análisis de correlaciones entre variables.
+3. **02_Codificacion_Var_Escalado**: Se centra en la codificación de variables categóricas y el escalado de variables numéricas.
