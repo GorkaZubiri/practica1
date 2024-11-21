@@ -4,9 +4,9 @@
 
 **Correo electrónico:** gorka.zubiri@cunef.edu
 
-**Directorio GitHub:** Gorka Zubiri Elso
+**Directorio GitHub:** https://github.com/GorkaZubiri/practica1
 
-Este proyecto tiene como objetivo ayudar a un banco a mejorar la aprobación de préstamos mediante el análisis de datos históricos de solicitudes. La idea es identificar patrones en los clientes que cumplen con sus pagos y aquellos que no lo hacen, para aplicar esta información en futuros modelos predictivos.
+Esta práctica tiene como objetivo ayudar a un banco a mejorar la aprobación de préstamos mediante el análisis de datos históricos de solicitudes. La idea es identificar patrones en los clientes que cumplen con sus pagos y aquellos que no lo hacen, para aplicar esta información en futuros modelos predictivos.
 
 ## Objetivos principales de este trabajo
 
@@ -61,20 +61,13 @@ La estructura del directorio de este proyecto está organizada de la siguiente m
   - **`interim/`**: Datos intermedios que han sido parcialmente procesados y aún no están listos para su uso final.
   
   
-- **`docs/`**: Carpeta que contiene documentos relacionados con el proyecto, como hojas de datos o documentación explicativa.
-
-
 - **`env/`**: Archivos relacionados con el entorno de desarrollo, incluyendo un archivo `requirements.txt` con todas las librerías y dependencias utilizadas en el proyecto.
+
+
 - **`notebooks/`**: Contiene los notebooks en formato Jupyter (`.ipynb`) que documentan el análisis de datos y otros experimentos.
 
 
 - **`html/`**: Carpeta donde se almacenan los notebooks convertidos en formato HTML para facilitar su visualización y compartición.
-
-
-- **`images/`**: Directorio que alberga las imágenes generadas en los notebooks, como gráficas y diagramas.
-
-
-- **`model/`**: Contiene los modelos entrenados y sus archivos correspondientes. Aquí se guardan los modelos para su posterior uso o evaluación.
 
 
 - **`src/`**: Directorio que guarda los archivos fuente de Python, tales como scripts, funciones o clases utilizadas en el procesamiento de datos o la creación de modelos.
